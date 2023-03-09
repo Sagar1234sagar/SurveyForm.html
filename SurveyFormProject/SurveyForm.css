@@ -1,0 +1,25 @@
+.first{
+    text-align: center;
+}
+.second{
+    text-align: center;
+}
+.third{
+    text-align: center;
+}
+.fourth{
+    text-align: center
+}
+.submit{
+   display: flex;
+   justify-content: center;
+   padding: 5px 60px 0px 0px;
+   
+}
+hr{
+    width: 65%;
+    background-color: rgb(53, 3, 3);
+}
+.fourth b{
+    font-size: 18px;
+}
